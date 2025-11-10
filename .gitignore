@@ -36,3 +36,4 @@ dist-ssr
 
 # Other sensitive files
 *.env.*
+!.env.example
